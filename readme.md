@@ -71,7 +71,7 @@ Welcome to **Assignment -07**. This assignment involves building a React-based a
  - **Change Your Web-Application Title**:
    change the web application title. If it show Vite-react some marks will be deducted.  
   
-- **Change website title(window)  vite+react -->> your website name **:
+
 
 - **Beautify GitHub Repository **:
   Create an attractive `README.md` for your GitHub repository with the following:
