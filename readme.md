@@ -9,13 +9,13 @@ you have to create private repo in our Google Classroom . here is the Link
 
 # <img width="30px" src="assets/logo.png"/> BPL-DREAM 11
 
-Welcome to **Assignment -07**. This assignment involves building a React-based application where users can select and manage cricket players for a team, following the design from Figma. You'll create a responsive UI, handle player selection, coin limitations, and complete the system following the requirements written below:
+Welcome to **Assignment -07**. This assignment involves building a React-based application where users can select and manage cricket players for a team, following the design from Figma. You'll create a  UI, handle player selection, coin limitations, and complete the system following the requirements written below:
 
 ---
 
 ### Navbar
 
-- The Navbar should match the Figma design and be responsive.
+- The Navbar should match the Figma design and be .
 - Display the user's money in the Navbar, initially it will be 0. 
 
 ### Banner
@@ -75,7 +75,7 @@ Welcome to **Assignment -07**. This assignment involves building a React-based a
   Implement an "Add More Players" button. On click, it should display the available player section again for the user to choose from.
 
 - **Implement The Perfect Validation on Player selection**:
-      - on clicking choose, player,  if player selected previously then show user an alert and terminate.
+      - on clicking choose, player,  if player selected previously then show user an alert(player already selected) and terminate.
       - if the selected player is already 6 then , show an alert and terminate
  - **Change Your Web-Application Title**:
    change the web application title. If it show Vite-react some marks will be deducted.  
