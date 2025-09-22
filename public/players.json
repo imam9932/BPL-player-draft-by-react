@@ -1,0 +1,137 @@
+[
+  {
+    "id": "player-001",
+    "name": "Shakib Al Hasan",
+    "image_url": "https://i.ibb.co.com/W4XqVmKN/sakib-al-hasan.jpg",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 92,
+    "price": 450000
+  },
+  {
+    "id": "player-002",
+    "name": "Tamim Iqbal",
+    "image_url": "https://i.ibb.co.com/5XD4QGnS/tamim.jpg",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 89,
+    "price": 400000
+  },
+  {
+    "id": "player-003",
+    "name": "Mushfiqur Rahim",
+    "image_url": "https://i.ibb.co.com/DfYW7fZH/mushfiq-2.jpg",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 88,
+    "price": 380000
+  },
+  {
+    "id": "player-004",
+    "name": "Ebadot Hossain",
+    "image_url": "https://i.ibb.co.com/Xr3kZ1Qn/ebadat.jpg",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 78,
+    "price": 120000
+  },
+  {
+    "id": "player-005",
+    "name": "Liton Das",
+    "image_url": "https://i.ibb.co.com/hJ0c3bC7/liton.webp",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 85,
+    "price": 300000
+  },
+  {
+    "id": "player-006",
+    "name": "Andre Russell",
+    "image_url": "https://i.ibb.co.com/0ytXFwyN/russel.webp",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "rating": 95,
+    "price": 550000
+  },
+  {
+    "id": "player-007",
+    "name": "Rashid Khan",
+    "image_url": "https://i.ibb.co.com/Xxqsc9rW/rahid.jpg",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": 91,
+    "price": 500000
+  },
+  {
+    "id": "player-008",
+    "name": "Fakhar Zaman",
+    "image_url": "https://i.ibb.co.com/DPNYfnYP/fakhar-zaman.jpg",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": 87,
+    "price": 320000
+  },
+  {
+    "id": "player-009",
+    "name": "Quinton de Kock",
+    "image_url": "https://i.ibb.co.com/HfrwpS0t/de-cock-2.jpg",
+    "country": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 90,
+    "price": 480000
+  },
+  {
+    "id": "player-010",
+    "name": "Mohammad Amir",
+    "image_url": "https://i.ibb.co.com/S4gccNdt/amir.webp",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": 84,
+    "price": 250000
+  },
+  {
+    "id": "player-011",
+    "name": "Sikandar Raza",
+    "image_url": "https://i.ibb.co.com/mFMFSqWn/raza.webp",
+    "country": "Zimbabwe",
+    "role": "All-Rounder",
+    "rating": 86,
+    "price": 290000
+  },
+  {
+    "id": "player-012",
+    "name": "Kyle Jamieson",
+    "image_url": "https://i.ibb.co.com/DDYyNZDb/jamieson.jpg",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "rating": 81,
+    "price": 220000
+  },
+  {
+    "id": "player-013",
+    "name": "Jonny Bairstow",
+    "image_url": "https://i.ibb.co.com/vCVX9QNk/bairstow.jpg",
+    "country": "England",
+    "role": "Wicketkeeper-Batsman",
+    "rating": 88,
+    "price": 430000
+  },
+  {
+    "id": "player-014",
+    "name": "David Wiese",
+    "image_url": "https://i.ibb.co.com/0RjkmZ1H/david-wiese.jpg",
+    "country": "Namibia",
+    "role": "All-Rounder",
+    "rating": 80,
+    "price": 160000
+  },
+  {
+    "id": "player-015",
+    "name": "Kagiso Rabada",
+    "image_url": "https://i.ibb.co.com/n8f3SQWL/rabada.webp",
+    "country": "South Africa",
+    "role": "Bowler",
+    "rating": 93,
+    "price": 520000
+  }
+]
